@@ -1,6 +1,6 @@
 # SMS_Spam_Detection
 ## Introduction
-A Natural Language Processing with SMS Data to predict whether the SMS is Spam/Ham with various ML Algorithms like multinomial-naive-Bayes, logistic regression, SVM, and decision trees to compare the accuracy and using various data cleaning and processing techniques like PorterStemmer, CountVectorizer, TFIDF Vectorizer, WordnetLemmatizer. It is implemented using Word Embeddings to gain an accuracy of 97.84%.
+Developed and implemented a Natural Language Processing (NLP) system leveraging SMS data to accurately predict whether messages are spam or legitimate (ham). Employed advanced machine learning algorithms including multinomial naive Bayes, logistic regression, SVM, and decision trees to achieve optimal performance. Utilized a diverse range of data cleaning and processing techniques such as PorterStemmer, CountVectorizer, TFIDF Vectorizer, and WordnetLemmatizer to enhance model robustness. Notably, the integrated Word Embeddings methodology resulted in an outstanding accuracy rate of 97.84%.
 ## Dataset Used
 https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 ## Images
